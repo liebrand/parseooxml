@@ -1,0 +1,26 @@
+{
+  "name": "parseooxml",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "parseooxml": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liebrand/parseooxml"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "adm-zip": "^0.4.4",
+    "lodash": "^2.4.1",
+    "minimist": "^1.1.0",
+    "progress": "^1.1.8",
+    "promise": "^6.1.0",
+    "xmldoc": "^0.1.4"
+  }
+}
